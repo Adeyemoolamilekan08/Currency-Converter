@@ -1,4 +1,4 @@
-/* Currency Converter */
+Currency Converter
 
 
 A simple web application that allows users to convert currencies using real-time exchange rates. Users can input an amount,
