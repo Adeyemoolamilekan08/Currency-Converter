@@ -1,8 +1,11 @@
-Currency Converter
+/* Currency Converter */
+
+
 A simple web application that allows users to convert currencies using real-time exchange rates. Users can input an amount,
 select the source and destination currencies, and see the converted amount instantly.
 
 Features
+
 Real-Time Currency Conversion: Fetches current exchange rates from an external API.
 User-Friendly Interface: Simple and intuitive design for easy navigation.
 Responsive Design: Works on both desktop and mobile devices.
@@ -18,6 +21,7 @@ Installation
 Clone the repository:
 
 Usage
+
 Enter the amount you want to convert in the input box.
 Select the source currency from the dropdown menu.
 Select the destination currency from the other dropdown menu.
